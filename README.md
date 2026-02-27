@@ -19,4 +19,4 @@ cd Generative-AI-with-LangChain
 3. Run the application
 ```bashpython app.py
 ```
-4. Open your browser and navigate to `http://localhost:5000` to interact with the chatbot.  
+4. Open your browser and navigate to `http://localhost:5000` to interact with the chatbot.
