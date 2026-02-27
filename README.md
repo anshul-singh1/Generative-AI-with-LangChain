@@ -14,9 +14,9 @@ git clone https://github.com/anshul-singh1/Generative-AI-with-LangChain.git
 cd Generative-AI-with-LangChain
 ```
 2. Install the dependencies
-```bash pip install -r requirements.txt
+```bashpip install -r requirements.txt
 ```
 3. Run the application
-```bash python app.py
+```bashpython app.py
 ```
 4. Open your browser and navigate to `http://localhost:5000` to interact with the chatbot.  
