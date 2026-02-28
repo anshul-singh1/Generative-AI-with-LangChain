@@ -7,7 +7,7 @@ An end-to-end Generative AI chatbot built using LangChain with support of open-s
 ![alt text](image.png)
 
 # LangSmith Dashboard with evaluation of the conversation
-<img width="1916" height="865" alt="image" src="https://github.com/user-attachments/assets/57096eb3-8847-4a2b-9a8d-92a1cc21ab36" />
+![alt text](<Screenshot 2026-02-27 182717.png>)
 
 
 # Getting Started   
