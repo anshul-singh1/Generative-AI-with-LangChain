@@ -12,3 +12,7 @@ bs4
 pypdf
 chromadb
 faiss-cpu
+langchain_huggingface
+langchain
+huggingface_hub
+ChatHuggingFaceHub
