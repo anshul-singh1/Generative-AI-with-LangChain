@@ -1,7 +1,7 @@
 # Generative-AI-with-LangChain
-An end-to-end Generative AI chatbot built using LangChain with support of open-source LLMs (Ollama).
+A Repository to learn Generative AI using LangChain with support of open-source LLMs (Ollama/Higging Face).
 
-🛠 Tech Stack: Python, LangChain, Streamlit, Ollama, dotenv
+🛠 Tech Stack: Python, LangChain, Streamlit, Ollama, Hugging Face, dotenv, RAG
 
 # Sample Conversation
 ![alt text](image.png)
